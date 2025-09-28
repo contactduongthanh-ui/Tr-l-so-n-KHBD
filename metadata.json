@@ -1,0 +1,5 @@
+{
+  "name": "Trợ Lý Sáng Tạo Game Giáo Dục",
+  "description": "Một ứng dụng web sử dụng AI để giúp giáo viên tạo ra các trò chơi học tập tương tác cho các môn Lịch sử, Địa lý, Kinh tế và Pháp luật từ nội dung bài học.",
+  "requestFramePermissions": []
+}
